@@ -1,6 +1,6 @@
 package Runner;
 
-import io.cucumber.core.gherkin.Feature;
+import cucumber.api.testng.AbstractTestNGCucumberTests;
 import io.cucumber.junit.CucumberOptions;
 import org.testng.annotations.DataProvider;
 
